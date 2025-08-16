@@ -1,0 +1,2387 @@
+{
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "Glog.AI",
+          "organization": "Glog.AI",
+          "fullName": "Glog, Making software more secure",
+          "version": "1.0.0",
+          "semanticVersion": "1.0.0",
+          "informationUri": "https://www.glog.ai",
+          "rules": [
+            {
+              "id": "glog-8b66a8de-9dce-4422-95ad-527d7de5a619",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS121708"
+                ]
+              }
+            },
+            {
+              "id": "glog-9661e154-0fb3-4d4a-bb36-7ac6225a5ec3",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS173237"
+                ]
+              }
+            },
+            {
+              "id": "glog-b8ebe144-22d4-416e-89a3-0ddda42293d0",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS187371"
+                ]
+              }
+            },
+            {
+              "id": "glog-c8eb2a8c-3a8b-4638-a042-8ba91c408fdc",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS187371"
+                ]
+              }
+            },
+            {
+              "id": "glog-9a5599d9-ee99-453e-909a-07eda2c12020",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS162092"
+                ]
+              }
+            },
+            {
+              "id": "glog-c80b33e0-6335-4ee9-bc03-1bed091355ea",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS162092"
+                ]
+              }
+            },
+            {
+              "id": "glog-69f76998-7208-4b03-a83d-6ccf7d79ef83",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS162092"
+                ]
+              }
+            },
+            {
+              "id": "glog-a7236801-a93f-49c6-9c9e-6021c747fe05",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS162092"
+                ]
+              }
+            },
+            {
+              "id": "glog-deec4d74-9b2e-402f-8eb0-c09048f9dd5a",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS162092"
+                ]
+              }
+            },
+            {
+              "id": "glog-ec4f6d28-40b4-412a-b1a6-522c67204eac",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS162092"
+                ]
+              }
+            },
+            {
+              "id": "glog-3e5b5ef3-471f-422c-bd8d-166200520f2c",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS121708"
+                ]
+              }
+            },
+            {
+              "id": "glog-09986fb2-40d1-4abf-845a-fc7d3e53e347",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS121708"
+                ]
+              }
+            },
+            {
+              "id": "glog-081c8937-0d2a-43c7-a408-7f0eb5f811c3",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS161085"
+                ]
+              }
+            },
+            {
+              "id": "glog-dfb0127b-5bc8-4486-ab06-0c3f284068ad",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS161085"
+                ]
+              }
+            },
+            {
+              "id": "glog-50f3f882-0553-415f-80fb-abad4a8f3103",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS187371"
+                ]
+              }
+            },
+            {
+              "id": "glog-65e1c60a-e258-4142-8491-34f4729d9448",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS187371"
+                ]
+              }
+            },
+            {
+              "id": "glog-ac669f3b-0ef8-4a32-a093-6a80b9ab25a7",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS187371"
+                ]
+              }
+            },
+            {
+              "id": "glog-fa85f64a-1a2b-455b-8c4b-b0db01ea3058",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS121708"
+                ]
+              }
+            },
+            {
+              "id": "glog-f7dc9c6f-4fe3-44c2-a345-d6d89a99d729",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS187371"
+                ]
+              }
+            },
+            {
+              "id": "glog-aab2a575-7eb7-401c-9a17-8c6e7043d71e",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS121708"
+                ]
+              }
+            },
+            {
+              "id": "glog-51b32bd9-95b1-48f6-a144-15c79c800e4a",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS187371"
+                ]
+              }
+            },
+            {
+              "id": "glog-f8f6e00b-77f1-4c45-a1a3-0c65fb6fa245",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS187371"
+                ]
+              }
+            },
+            {
+              "id": "glog-d513ee4b-ab14-4277-9cf9-99f850bed7f0",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS187371"
+                ]
+              }
+            },
+            {
+              "id": "glog-a1f5c695-c7d2-4092-b2be-fab121908d5c",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS187371"
+                ]
+              }
+            },
+            {
+              "id": "glog-73d0ae00-605e-4c0f-bcf8-8433534ed535",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-8900f190-427d-4add-96d3-51afa7cf2c4f",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-d94e6217-44f9-4a5c-9f47-ac93d9f27771",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-e014ecf0-91f8-45b2-93d6-5c86b9293747",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-ee129b10-3805-46e2-b885-2986828ca8d9",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS161085"
+                ]
+              }
+            },
+            {
+              "id": "glog-74547cb8-802b-4274-81c5-08124c242c9d",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS121708"
+                ]
+              }
+            },
+            {
+              "id": "glog-7277927f-493e-49a9-921f-80f35895bd1e",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS121708"
+                ]
+              }
+            },
+            {
+              "id": "glog-d8368c2c-07a9-463d-8bee-4b10ca325f3f",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS121708"
+                ]
+              }
+            },
+            {
+              "id": "glog-3710bce5-918f-439b-a108-46737d9f3b43",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS121708"
+                ]
+              }
+            },
+            {
+              "id": "glog-0b55b864-5ac5-4750-ae15-f0f2143ff650",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS121708"
+                ]
+              }
+            },
+            {
+              "id": "glog-c31d6211-5321-48ea-900b-6d5c0d442543",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS121708"
+                ]
+              }
+            },
+            {
+              "id": "glog-facca54a-f0e5-4057-9d2a-bd93a004019e",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS187371"
+                ]
+              }
+            },
+            {
+              "id": "glog-527986ca-0b74-4bc3-bbc0-0f99cffb0719",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS187371"
+                ]
+              }
+            }
+          ],
+          "language": "en-US",
+          "contents": [
+            "localizedData",
+            "nonLocalizedData"
+          ],
+          "isComprehensive": false
+        }
+      },
+      "language": "en-US",
+      "results": [
+        {
+          "ruleId": "glog-8b66a8de-9dce-4422-95ad-527d7de5a619",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_rma.h"
+                },
+                "region": {
+                  "startLine": 210,
+                  "startColumn": 2,
+                  "endLine": 210,
+                  "endColumn": 39,
+                  "charOffset": 8146,
+                  "charLength": 37,
+                  "snippet": {
+                    "text": "memcpy(params->inject_data, buf, len)",
+                    "rendered": {
+                      "text": "memcpy(params->inject_data, buf, len)",
+                      "markdown": "`memcpy(params->inject_data, buf, len)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "There are a number of conditions in which memcpy can introduce a vulnerability (mismatched buffer sizes, null pointers, etc.). More secure alternitives perform additional validation of the source and destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/opx/include/rdma/opx/fi_opx_rma.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 8146,
+                        "charLength": 37
+                      },
+                      "insertedContent": {
+                        "text": "memcpy_s(params->inject_data, <size of params->inject_data>,  buf,  len)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-9661e154-0fb3-4d4a-bb36-7ac6225a5ec3",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_domain.h"
+                },
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 32,
+                  "endLine": 93,
+                  "endColumn": 66,
+                  "charOffset": 2786,
+                  "charLength": 34,
+                  "snippet": {
+                    "text": "\"00112233445566778899aabbccddeeff\"",
+                    "rendered": {
+                      "text": "\"00112233445566778899aabbccddeeff\"",
+                      "markdown": "`\"00112233445566778899aabbccddeeff\"`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Implementation.Privacy.Token"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-b8ebe144-22d4-416e-89a3-0ddda42293d0",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_proto_mq.c"
+                },
+                "region": {
+                  "startLine": 1851,
+                  "startColumn": 46,
+                  "endLine": 1851,
+                  "endColumn": 49,
+                  "charOffset": 60399,
+                  "charLength": 3,
+                  "snippet": {
+                    "text": "CTS",
+                    "rendered": {
+                      "text": "CTS",
+                      "markdown": "`CTS`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Cryptography.Symmetric.CipherMode.Weak"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-c8eb2a8c-3a8b-4638-a042-8ba91c408fdc",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_proto_mq.c"
+                },
+                "region": {
+                  "startLine": 1422,
+                  "startColumn": 21,
+                  "endLine": 1422,
+                  "endColumn": 24,
+                  "charOffset": 46355,
+                  "charLength": 3,
+                  "snippet": {
+                    "text": "CTS",
+                    "rendered": {
+                      "text": "CTS",
+                      "markdown": "`CTS`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Cryptography.Symmetric.CipherMode.Weak"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-9a5599d9-ee99-453e-909a-07eda2c12020",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "fabtests/unit/getinfo_test.c"
+                },
+                "region": {
+                  "startLine": 882,
+                  "startColumn": 39,
+                  "endLine": 882,
+                  "endColumn": 48,
+                  "charOffset": 24192,
+                  "charLength": 9,
+                  "snippet": {
+                    "text": "localhost",
+                    "rendered": {
+                      "text": "localhost",
+                      "markdown": "`localhost`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "ManualReview",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "Hygiene.Network.AccessingLocalhost"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-c80b33e0-6335-4ee9-bc03-1bed091355ea",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "fabtests/unit/getinfo_test.c"
+                },
+                "region": {
+                  "startLine": 871,
+                  "startColumn": 39,
+                  "endLine": 871,
+                  "endColumn": 48,
+                  "charOffset": 23648,
+                  "charLength": 9,
+                  "snippet": {
+                    "text": "localhost",
+                    "rendered": {
+                      "text": "localhost",
+                      "markdown": "`localhost`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "ManualReview",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "Hygiene.Network.AccessingLocalhost"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-69f76998-7208-4b03-a83d-6ccf7d79ef83",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "fabtests/unit/getinfo_test.c"
+                },
+                "region": {
+                  "startLine": 877,
+                  "startColumn": 39,
+                  "endLine": 877,
+                  "endColumn": 48,
+                  "charOffset": 23971,
+                  "charLength": 9,
+                  "snippet": {
+                    "text": "localhost",
+                    "rendered": {
+                      "text": "localhost",
+                      "markdown": "`localhost`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "ManualReview",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "Hygiene.Network.AccessingLocalhost"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-a7236801-a93f-49c6-9c9e-6021c747fe05",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "fabtests/unit/getinfo_test.c"
+                },
+                "region": {
+                  "startLine": 863,
+                  "startColumn": 39,
+                  "endLine": 863,
+                  "endColumn": 48,
+                  "charOffset": 23276,
+                  "charLength": 9,
+                  "snippet": {
+                    "text": "localhost",
+                    "rendered": {
+                      "text": "localhost",
+                      "markdown": "`localhost`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "ManualReview",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "Hygiene.Network.AccessingLocalhost"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-deec4d74-9b2e-402f-8eb0-c09048f9dd5a",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "fabtests/unit/getinfo_test.c"
+                },
+                "region": {
+                  "startLine": 858,
+                  "startColumn": 39,
+                  "endLine": 858,
+                  "endColumn": 48,
+                  "charOffset": 23046,
+                  "charLength": 9,
+                  "snippet": {
+                    "text": "localhost",
+                    "rendered": {
+                      "text": "localhost",
+                      "markdown": "`localhost`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "ManualReview",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "Hygiene.Network.AccessingLocalhost"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-ec4f6d28-40b4-412a-b1a6-522c67204eac",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "fabtests/unit/getinfo_test.c"
+                },
+                "region": {
+                  "startLine": 852,
+                  "startColumn": 39,
+                  "endLine": 852,
+                  "endColumn": 48,
+                  "charOffset": 22701,
+                  "charLength": 9,
+                  "snippet": {
+                    "text": "localhost",
+                    "rendered": {
+                      "text": "localhost",
+                      "markdown": "`localhost`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "ManualReview",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "Hygiene.Network.AccessingLocalhost"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-3e5b5ef3-471f-422c-bd8d-166200520f2c",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_flight_recorder.h"
+                },
+                "region": {
+                  "startLine": 233,
+                  "startColumn": 1,
+                  "endLine": 234,
+                  "endColumn": 43,
+                  "charOffset": 8169,
+                  "charLength": 95,
+                  "snippet": {
+                    "text": "memcpy((void *)next->data, (void *) &(packet),\t\t\t\t\\\n\t\t\tsizeof(union fi_opx_hfi1_packet_payload)",
+                    "rendered": {
+                      "text": "memcpy((void *)next->data, (void *) &(packet),\t\t\t\t\\\n\t\t\tsizeof(union fi_opx_hfi1_packet_payload)",
+                      "markdown": "`memcpy((void *)next->data, (void *) &(packet),\t\t\t\t\\\n\t\t\tsizeof(union fi_opx_hfi1_packet_payload)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "There are a number of conditions in which memcpy can introduce a vulnerability (mismatched buffer sizes, null pointers, etc.). More secure alternitives perform additional validation of the source and destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/opx/include/rdma/opx/fi_opx_flight_recorder.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 8169,
+                        "charLength": 95
+                      },
+                      "insertedContent": {
+                        "text": "memcpy_s((void *)next->data, <size of (void *)next->data>,  (void *) &(packet), \t\t\t\t\\\n\t\t\tsizeof(union fi_opx_hfi1_packet_payload)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-09986fb2-40d1-4abf-845a-fc7d3e53e347",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_flight_recorder.h"
+                },
+                "region": {
+                  "startLine": 222,
+                  "startColumn": 1,
+                  "endLine": 223,
+                  "endColumn": 39,
+                  "charOffset": 7769,
+                  "charLength": 94,
+                  "snippet": {
+                    "text": "memcpy((void *)next->data, (void *) &(packet_hdr),\t\t\t\\\n\t\t\tsizeof(union fi_opx_hfi1_packet_hdr)",
+                    "rendered": {
+                      "text": "memcpy((void *)next->data, (void *) &(packet_hdr),\t\t\t\\\n\t\t\tsizeof(union fi_opx_hfi1_packet_hdr)",
+                      "markdown": "`memcpy((void *)next->data, (void *) &(packet_hdr),\t\t\t\\\n\t\t\tsizeof(union fi_opx_hfi1_packet_hdr)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "There are a number of conditions in which memcpy can introduce a vulnerability (mismatched buffer sizes, null pointers, etc.). More secure alternitives perform additional validation of the source and destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/opx/include/rdma/opx/fi_opx_flight_recorder.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7769,
+                        "charLength": 94
+                      },
+                      "insertedContent": {
+                        "text": "memcpy_s((void *)next->data, <size of (void *)next->data>,  (void *) &(packet_hdr), \t\t\t\\\n\t\t\tsizeof(union fi_opx_hfi1_packet_hdr)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-081c8937-0d2a-43c7-a408-7f0eb5f811c3",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_flight_recorder.h"
+                },
+                "region": {
+                  "startLine": 94,
+                  "startColumn": 11,
+                  "endLine": 94,
+                  "endColumn": 50,
+                  "charOffset": 3205,
+                  "charLength": 39,
+                  "snippet": {
+                    "text": "malloc(sizeof(union fi_opx_timer_stamp)",
+                    "rendered": {
+                      "text": "malloc(sizeof(union fi_opx_timer_stamp)",
+                      "markdown": "`malloc(sizeof(union fi_opx_timer_stamp)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the value provided to malloc is the result of unsafe integer math, it can result in an exploitable condition. "
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/opx/include/rdma/opx/fi_opx_flight_recorder.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3205,
+                        "charLength": 39
+                      },
+                      "insertedContent": {
+                        "text": "calloc(<number of elements>, <size of each element>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-dfb0127b-5bc8-4486-ab06-0c3f284068ad",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_flight_recorder.h"
+                },
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 13,
+                  "endLine": 92,
+                  "endColumn": 52,
+                  "charOffset": 3121,
+                  "charLength": 39,
+                  "snippet": {
+                    "text": "malloc(sizeof(union fi_opx_timer_state)",
+                    "rendered": {
+                      "text": "malloc(sizeof(union fi_opx_timer_state)",
+                      "markdown": "`malloc(sizeof(union fi_opx_timer_state)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the value provided to malloc is the result of unsafe integer math, it can result in an exploitable condition. "
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/opx/include/rdma/opx/fi_opx_flight_recorder.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3121,
+                        "charLength": 39
+                      },
+                      "insertedContent": {
+                        "text": "calloc(<number of elements>, <size of each element>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-50f3f882-0553-415f-80fb-abad4a8f3103",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_proto_expected.c"
+                },
+                "region": {
+                  "startLine": 2512,
+                  "startColumn": 14,
+                  "endLine": 2512,
+                  "endColumn": 17,
+                  "charOffset": 85093,
+                  "charLength": 3,
+                  "snippet": {
+                    "text": "CTS",
+                    "rendered": {
+                      "text": "CTS",
+                      "markdown": "`CTS`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Cryptography.Symmetric.CipherMode.Weak"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-65e1c60a-e258-4142-8491-34f4729d9448",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_proto_expected.c"
+                },
+                "region": {
+                  "startLine": 2160,
+                  "startColumn": 14,
+                  "endLine": 2160,
+                  "endColumn": 17,
+                  "charOffset": 73191,
+                  "charLength": 3,
+                  "snippet": {
+                    "text": "CTS",
+                    "rendered": {
+                      "text": "CTS",
+                      "markdown": "`CTS`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Cryptography.Symmetric.CipherMode.Weak"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-ac669f3b-0ef8-4a32-a093-6a80b9ab25a7",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_proto_expected.c"
+                },
+                "region": {
+                  "startLine": 2139,
+                  "startColumn": 14,
+                  "endLine": 2139,
+                  "endColumn": 17,
+                  "charOffset": 72317,
+                  "charLength": 3,
+                  "snippet": {
+                    "text": "CTS",
+                    "rendered": {
+                      "text": "CTS",
+                      "markdown": "`CTS`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Cryptography.Symmetric.CipherMode.Weak"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-fa85f64a-1a2b-455b-8c4b-b0db01ea3058",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_proto_expected.c"
+                },
+                "region": {
+                  "startLine": 1872,
+                  "startColumn": 2,
+                  "endLine": 1875,
+                  "endColumn": 54,
+                  "charOffset": 64020,
+                  "charLength": 188,
+                  "snippet": {
+                    "text": "memcpy((void *)((uintptr_t)tidsendc->buffer + chb->size -\n\t\t\toffset_in_chb), chb_next->host_buf,\n\t\t\ttidsendc->tid_list.tsess_srcoff +\n\t\t\ttidsendc->tid_list.tsess_length - chb_next->offset)",
+                    "rendered": {
+                      "text": "memcpy((void *)((uintptr_t)tidsendc->buffer + chb->size -\n\t\t\toffset_in_chb), chb_next->host_buf,\n\t\t\ttidsendc->tid_list.tsess_srcoff +\n\t\t\ttidsendc->tid_list.tsess_length - chb_next->offset)",
+                      "markdown": "`memcpy((void *)((uintptr_t)tidsendc->buffer + chb->size -\n\t\t\toffset_in_chb), chb_next->host_buf,\n\t\t\ttidsendc->tid_list.tsess_srcoff +\n\t\t\ttidsendc->tid_list.tsess_length - chb_next->offset)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "There are a number of conditions in which memcpy can introduce a vulnerability (mismatched buffer sizes, null pointers, etc.). More secure alternitives perform additional validation of the source and destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/psm3/psm3/ptl_ips/ips_proto_expected.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 64020,
+                        "charLength": 188
+                      },
+                      "insertedContent": {
+                        "text": "memcpy_s((void *)((uintptr_t)tidsendc->buffer + chb->size -\n\t\t\toffset_in_chb), <size of (void *)((uintptr_t)tidsendc->buffer + chb->size -\n\t\t\toffset_in_chb)>,  chb_next->host_buf, \n\t\t\ttidsendc->tid_list.tsess_srcoff +\n\t\t\ttidsendc->tid_list.tsess_length - chb_next->offset)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-f7dc9c6f-4fe3-44c2-a345-d6d89a99d729",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_proto_expected.c"
+                },
+                "region": {
+                  "startLine": 2136,
+                  "startColumn": 14,
+                  "endLine": 2136,
+                  "endColumn": 17,
+                  "charOffset": 72125,
+                  "charLength": 3,
+                  "snippet": {
+                    "text": "CTS",
+                    "rendered": {
+                      "text": "CTS",
+                      "markdown": "`CTS`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Cryptography.Symmetric.CipherMode.Weak"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-aab2a575-7eb7-401c-9a17-8c6e7043d71e",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_proto_expected.c"
+                },
+                "region": {
+                  "startLine": 1870,
+                  "startColumn": 2,
+                  "endLine": 1871,
+                  "endColumn": 43,
+                  "charOffset": 63912,
+                  "charLength": 104,
+                  "snippet": {
+                    "text": "memcpy(tidsendc->buffer, (void *)((uintptr_t)chb->host_buf +\n\t\t\toffset_in_chb), chb->size-offset_in_chb)",
+                    "rendered": {
+                      "text": "memcpy(tidsendc->buffer, (void *)((uintptr_t)chb->host_buf +\n\t\t\toffset_in_chb), chb->size-offset_in_chb)",
+                      "markdown": "`memcpy(tidsendc->buffer, (void *)((uintptr_t)chb->host_buf +\n\t\t\toffset_in_chb), chb->size-offset_in_chb)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "There are a number of conditions in which memcpy can introduce a vulnerability (mismatched buffer sizes, null pointers, etc.). More secure alternitives perform additional validation of the source and destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/psm3/psm3/ptl_ips/ips_proto_expected.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 63912,
+                        "charLength": 104
+                      },
+                      "insertedContent": {
+                        "text": "memcpy_s(tidsendc->buffer, <size of tidsendc->buffer>,  (void *)((uintptr_t)chb->host_buf +\n\t\t\toffset_in_chb),  chb->size-offset_in_chb)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-51b32bd9-95b1-48f6-a144-15c79c800e4a",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_proto_expected.c"
+                },
+                "region": {
+                  "startLine": 1730,
+                  "startColumn": 14,
+                  "endLine": 1730,
+                  "endColumn": 17,
+                  "charOffset": 58995,
+                  "charLength": 3,
+                  "snippet": {
+                    "text": "CTS",
+                    "rendered": {
+                      "text": "CTS",
+                      "markdown": "`CTS`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Cryptography.Symmetric.CipherMode.Weak"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-f8f6e00b-77f1-4c45-a1a3-0c65fb6fa245",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_proto_expected.c"
+                },
+                "region": {
+                  "startLine": 1554,
+                  "startColumn": 19,
+                  "endLine": 1554,
+                  "endColumn": 22,
+                  "charOffset": 52718,
+                  "charLength": 3,
+                  "snippet": {
+                    "text": "CTS",
+                    "rendered": {
+                      "text": "CTS",
+                      "markdown": "`CTS`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Cryptography.Symmetric.CipherMode.Weak"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-d513ee4b-ab14-4277-9cf9-99f850bed7f0",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_proto_expected.c"
+                },
+                "region": {
+                  "startLine": 1725,
+                  "startColumn": 14,
+                  "endLine": 1725,
+                  "endColumn": 17,
+                  "charOffset": 58720,
+                  "charLength": 3,
+                  "snippet": {
+                    "text": "CTS",
+                    "rendered": {
+                      "text": "CTS",
+                      "markdown": "`CTS`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Cryptography.Symmetric.CipherMode.Weak"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-a1f5c695-c7d2-4092-b2be-fab121908d5c",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_proto_expected.c"
+                },
+                "region": {
+                  "startLine": 625,
+                  "startColumn": 21,
+                  "endLine": 625,
+                  "endColumn": 24,
+                  "charOffset": 20762,
+                  "charLength": 3,
+                  "snippet": {
+                    "text": "CTS",
+                    "rendered": {
+                      "text": "CTS",
+                      "markdown": "`CTS`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Cryptography.Symmetric.CipherMode.Weak"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-73d0ae00-605e-4c0f-bcf8-8433534ed535",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_opp_path_rec.c"
+                },
+                "region": {
+                  "startLine": 472,
+                  "startColumn": 1,
+                  "endLine": 472,
+                  "endColumn": 24,
+                  "charOffset": 16874,
+                  "charLength": 23,
+                  "snippet": {
+                    "text": "strcpy(elid.key, eplid)",
+                    "rendered": {
+                      "text": "strcpy(elid.key, eplid)",
+                      "markdown": "`strcpy(elid.key, eplid)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/psm3/psm3/ptl_ips/ips_opp_path_rec.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 16874,
+                        "charLength": 23
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(elid.key, <size of elid.key>,  eplid)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/psm3/psm3/ptl_ips/ips_opp_path_rec.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 16874,
+                        "charLength": 23
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(elid.key,  eplid, <size of elid.key>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-8900f190-427d-4add-96d3-51afa7cf2c4f",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_opp_path_rec.c"
+                },
+                "region": {
+                  "startLine": 307,
+                  "startColumn": 49,
+                  "endLine": 307,
+                  "endColumn": 62,
+                  "charOffset": 11468,
+                  "charLength": 13,
+                  "snippet": {
+                    "text": "strlen(eplid)",
+                    "rendered": {
+                      "text": "strlen(eplid)",
+                      "markdown": "`strlen(eplid)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/psm3/psm3/ptl_ips/ips_opp_path_rec.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 11468,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(eplid, <size of eplid>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/psm3/psm3/ptl_ips/ips_opp_path_rec.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 11468,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(eplid, <size of eplid>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-d94e6217-44f9-4a5c-9f47-ac93d9f27771",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_opp_path_rec.c"
+                },
+                "region": {
+                  "startLine": 172,
+                  "startColumn": 2,
+                  "endLine": 172,
+                  "endColumn": 25,
+                  "charOffset": 5750,
+                  "charLength": 23,
+                  "snippet": {
+                    "text": "strcpy(elid.key, eplid)",
+                    "rendered": {
+                      "text": "strcpy(elid.key, eplid)",
+                      "markdown": "`strcpy(elid.key, eplid)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/psm3/psm3/ptl_ips/ips_opp_path_rec.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 5750,
+                        "charLength": 23
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(elid.key, <size of elid.key>,  eplid)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/psm3/psm3/ptl_ips/ips_opp_path_rec.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 5750,
+                        "charLength": 23
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(elid.key,  eplid, <size of elid.key>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-e014ecf0-91f8-45b2-93d6-5c86b9293747",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/psm3/psm3/ptl_ips/ips_opp_path_rec.c"
+                },
+                "region": {
+                  "startLine": 114,
+                  "startColumn": 43,
+                  "endLine": 114,
+                  "endColumn": 56,
+                  "charOffset": 4046,
+                  "charLength": 13,
+                  "snippet": {
+                    "text": "strlen(eplid)",
+                    "rendered": {
+                      "text": "strlen(eplid)",
+                      "markdown": "`strlen(eplid)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/psm3/psm3/ptl_ips/ips_opp_path_rec.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4046,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(eplid, <size of eplid>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/psm3/psm3/ptl_ips/ips_opp_path_rec.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4046,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(eplid, <size of eplid>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-ee129b10-3805-46e2-b885-2986828ca8d9",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "fabtests/unit/mr_cache_evict.c"
+                },
+                "region": {
+                  "startLine": 538,
+                  "startColumn": 14,
+                  "endLine": 538,
+                  "endColumn": 33,
+                  "charOffset": 13514,
+                  "charLength": 19,
+                  "snippet": {
+                    "text": "malloc(mr_buf_size)",
+                    "rendered": {
+                      "text": "malloc(mr_buf_size)",
+                      "markdown": "`malloc(mr_buf_size)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the value provided to malloc is the result of unsafe integer math, it can result in an exploitable condition. "
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "fabtests/unit/mr_cache_evict.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 13514,
+                        "charLength": 19
+                      },
+                      "insertedContent": {
+                        "text": "calloc(<number of elements>, <size of each element>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-74547cb8-802b-4274-81c5-08124c242c9d",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                },
+                "region": {
+                  "startLine": 1970,
+                  "startColumn": 3,
+                  "endLine": 1970,
+                  "endColumn": 36,
+                  "charOffset": 72844,
+                  "charLength": 33,
+                  "snippet": {
+                    "text": "memcpy(rbuf_qws, sbuf_qws, bytes)",
+                    "rendered": {
+                      "text": "memcpy(rbuf_qws, sbuf_qws, bytes)",
+                      "markdown": "`memcpy(rbuf_qws, sbuf_qws, bytes)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "There are a number of conditions in which memcpy can introduce a vulnerability (mismatched buffer sizes, null pointers, etc.). More secure alternitives perform additional validation of the source and destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 72844,
+                        "charLength": 33
+                      },
+                      "insertedContent": {
+                        "text": "memcpy_s(rbuf_qws, <size of rbuf_qws>,  sbuf_qws,  bytes)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-7277927f-493e-49a9-921f-80f35895bd1e",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                },
+                "region": {
+                  "startLine": 1942,
+                  "startColumn": 3,
+                  "endLine": 1942,
+                  "endColumn": 36,
+                  "charOffset": 71827,
+                  "charLength": 33,
+                  "snippet": {
+                    "text": "memcpy(rbuf_qws, sbuf_qws, bytes)",
+                    "rendered": {
+                      "text": "memcpy(rbuf_qws, sbuf_qws, bytes)",
+                      "markdown": "`memcpy(rbuf_qws, sbuf_qws, bytes)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "There are a number of conditions in which memcpy can introduce a vulnerability (mismatched buffer sizes, null pointers, etc.). More secure alternitives perform additional validation of the source and destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 71827,
+                        "charLength": 33
+                      },
+                      "insertedContent": {
+                        "text": "memcpy_s(rbuf_qws, <size of rbuf_qws>,  sbuf_qws,  bytes)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-d8368c2c-07a9-463d-8bee-4b10ca325f3f",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                },
+                "region": {
+                  "startLine": 1860,
+                  "startColumn": 3,
+                  "endLine": 1860,
+                  "endColumn": 36,
+                  "charOffset": 68602,
+                  "charLength": 33,
+                  "snippet": {
+                    "text": "memcpy(rbuf_qws, sbuf_qws, bytes)",
+                    "rendered": {
+                      "text": "memcpy(rbuf_qws, sbuf_qws, bytes)",
+                      "markdown": "`memcpy(rbuf_qws, sbuf_qws, bytes)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "There are a number of conditions in which memcpy can introduce a vulnerability (mismatched buffer sizes, null pointers, etc.). More secure alternitives perform additional validation of the source and destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 68602,
+                        "charLength": 33
+                      },
+                      "insertedContent": {
+                        "text": "memcpy_s(rbuf_qws, <size of rbuf_qws>,  sbuf_qws,  bytes)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-3710bce5-918f-439b-a108-46737d9f3b43",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                },
+                "region": {
+                  "startLine": 1807,
+                  "startColumn": 2,
+                  "endLine": 1807,
+                  "endColumn": 35,
+                  "charOffset": 66278,
+                  "charLength": 33,
+                  "snippet": {
+                    "text": "memcpy(rbuf_qws, sbuf_qws, bytes)",
+                    "rendered": {
+                      "text": "memcpy(rbuf_qws, sbuf_qws, bytes)",
+                      "markdown": "`memcpy(rbuf_qws, sbuf_qws, bytes)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "There are a number of conditions in which memcpy can introduce a vulnerability (mismatched buffer sizes, null pointers, etc.). More secure alternitives perform additional validation of the source and destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 66278,
+                        "charLength": 33
+                      },
+                      "insertedContent": {
+                        "text": "memcpy_s(rbuf_qws, <size of rbuf_qws>,  sbuf_qws,  bytes)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-0b55b864-5ac5-4750-ae15-f0f2143ff650",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                },
+                "region": {
+                  "startLine": 1482,
+                  "startColumn": 6,
+                  "endLine": 1482,
+                  "endColumn": 99,
+                  "charOffset": 54178,
+                  "charLength": 93,
+                  "snippet": {
+                    "text": "memcpy(rbuf_start,immediate_block[immediate_block_count].qw, (immediate_end_block_count << 6)",
+                    "rendered": {
+                      "text": "memcpy(rbuf_start,immediate_block[immediate_block_count].qw, (immediate_end_block_count << 6)",
+                      "markdown": "`memcpy(rbuf_start,immediate_block[immediate_block_count].qw, (immediate_end_block_count << 6)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "There are a number of conditions in which memcpy can introduce a vulnerability (mismatched buffer sizes, null pointers, etc.). More secure alternitives perform additional validation of the source and destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 54178,
+                        "charLength": 93
+                      },
+                      "insertedContent": {
+                        "text": "memcpy_s(rbuf_start, <size of rbuf_start>, immediate_block[immediate_block_count].qw,  (immediate_end_block_count << 6)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-c31d6211-5321-48ea-900b-6d5c0d442543",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                },
+                "region": {
+                  "startLine": 1309,
+                  "startColumn": 4,
+                  "endLine": 1309,
+                  "endColumn": 66,
+                  "charOffset": 46516,
+                  "charLength": 62,
+                  "snippet": {
+                    "text": "memcpy(recv_buf, hdr->mp_eager_nth.xfer_tail, xfer_bytes_tail)",
+                    "rendered": {
+                      "text": "memcpy(recv_buf, hdr->mp_eager_nth.xfer_tail, xfer_bytes_tail)",
+                      "markdown": "`memcpy(recv_buf, hdr->mp_eager_nth.xfer_tail, xfer_bytes_tail)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "There are a number of conditions in which memcpy can introduce a vulnerability (mismatched buffer sizes, null pointers, etc.). More secure alternitives perform additional validation of the source and destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 46516,
+                        "charLength": 62
+                      },
+                      "insertedContent": {
+                        "text": "memcpy_s(recv_buf, <size of recv_buf>,  hdr->mp_eager_nth.xfer_tail,  xfer_bytes_tail)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-facca54a-f0e5-4057-9d2a-bd93a004019e",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                },
+                "region": {
+                  "startLine": 1684,
+                  "startColumn": 63,
+                  "endLine": 1684,
+                  "endColumn": 66,
+                  "charOffset": 61296,
+                  "charLength": 3,
+                  "snippet": {
+                    "text": "CTS",
+                    "rendered": {
+                      "text": "CTS",
+                      "markdown": "`CTS`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Cryptography.Symmetric.CipherMode.Weak"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-527986ca-0b74-4bc3-bbc0-0f99cffb0719",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "prov/opx/include/rdma/opx/fi_opx_endpoint.h"
+                },
+                "region": {
+                  "startLine": 1771,
+                  "startColumn": 63,
+                  "endLine": 1771,
+                  "endColumn": 66,
+                  "charOffset": 64659,
+                  "charLength": 3,
+                  "snippet": {
+                    "text": "CTS",
+                    "rendered": {
+                      "text": "CTS",
+                      "markdown": "`CTS`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "Medium",
+            "tags": [
+              "Cryptography.Symmetric.CipherMode.Weak"
+            ]
+          }
+        }
+      ],
+      "newlineSequences": [
+        "\r\n",
+        "\n"
+      ]
+    }
+  ]
+}
